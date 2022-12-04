@@ -1253,7 +1253,9 @@ PRODUCT_PACKAGES += \
     libfastcvopt \
     libthermalclient \
     CneApp \
+    IFAAService \
     IWlanService \
+    MipayService \
     SoterService \
     TimeService \
     PowerOffAlarm \
